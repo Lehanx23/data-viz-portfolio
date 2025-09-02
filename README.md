@@ -11,6 +11,8 @@ Hi! My name is Lehan Xu, and I use she/her/hers pronouns. I am a second-year Mas
 2. I hope to learn critique methodologies and practice giving fair, constructive critiques of data visualizations, along with recommendations for improvement.
 3. I hope to develop the ability to make effective design decisions within context, ensuring that the narrative of a visualization aligns with the larger story.
 
+When I graduate from the program, I would love to work as an Arts Manager with a focus on the performing arts industry. I believe it is essential to create charts that are accessible, clear, and purposeful - charts that tell a story aligned with their intended message, especially when the audience include people of different backgrounds who may not be familiar with data.
+
 # Portfolio
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
