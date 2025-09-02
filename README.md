@@ -8,29 +8,17 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 - This repository: https://github.com/cmustudent/tswd-portfolio-templates/
 
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+This is my public portfolio for Telling Stories with Data at CMU!
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi! My name is Lehan Xu, and I use she/her/hers pronouns. I am a second-year Master of Arts Management student at Heinz College, Carnegie Mellon University. I also completed my undergraduate studies at CMU, majoring in Economics and Statistics with minors in Business Administration and Drama.
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
-
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+1. I hope to learn how to improve my use of design elements, such as color, text, layout, and visualization type, so that they are accessible and clear.
+2. I hope to learn critique methodologies and practice giving fair, constructive critiques of data visualizations, along with recommendations for improvement.
+3. I hope to develop the ability to make effective design decisions within context, ensuring that the narrative of a visualization aligns with the larger story.
 
 # Portfolio
-
-# Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
-
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
@@ -38,7 +26,6 @@ For this assignment, make sure you set up and link to a new page.  This page is 
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
 
 ## Final project
-Here it might be helpful to include a high-level description of your final project. 
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
 Part III(final-project-part-three)
