@@ -4,10 +4,7 @@
 _You can place some of your data viz examples from the course here.  Make sure to include any citations / references / data sources used, and it's probably a good idea to explain what these visualizations show._
 
 <html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>Tableau Visualization</title>
-</head>
+
 <body>
   <h1>Government Debt-to-GDP Ratios (1995–2019)</h1>
   <div class='tableauPlaceholder' id='viz1757182642294' style='position: relative'>
