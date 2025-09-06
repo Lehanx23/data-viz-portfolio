@@ -14,7 +14,7 @@ Hi! My name is Lehan Xu, and I use she/her/hers pronouns. I am a second-year Mas
 When I graduate from the program, I would love to work as an Arts Manager with a focus on the performing arts industry. I believe it is essential to create charts that are accessible, clear, and purposeful - charts that tell a story aligned with their intended message, especially when the audience include people of different backgrounds who may not be familiar with data.
 
 # Portfolio
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
+## Assignment: [Visualizing Government Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
