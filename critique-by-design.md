@@ -38,7 +38,7 @@ Here is the visualization (code provided by the website):
                                                       {var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
   </script>
 
-I selected this data visualization because I felt that studying in European countries is a topic that would interest a wide range of audiences. As an arts management student, I believe this topic resonates not only with Europeans but also with future arts managers around the world, since Europe has a rich history in both performing and visual arts and offers space for both classical and experimental/modern works. People from other industries may share similar interests as well.
+I selected this data visualization because I felt that studying in European countries is a topic that would be of particular interest to people in the UK. All the data collected reflects average yearly costs for UK students, and the unit of measurement is pounds. These destinations are relatively close to their home while still offering the opportunity to study abroad and experience different cultures, which makes them very appealing.
 
 I wanted to see how a data visualization on this topic could help audiences learn more about the cheapest countries to study in Europe, and to consider whether, if I were to design the visualization myself, I could tell a clearer story.
 
@@ -65,13 +65,9 @@ This is my solution by Monday, September 15:
 
 ## Step four: Test the solution
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
-
-Questions to ask (modify these for your own interviews): 
+Questions to ask: 
 
 - Can you tell me what you think this is?
-
-- Can you describe to me what this is telling you?
 
 - Is there anything you find surprising or confusing?
 
@@ -81,18 +77,18 @@ Questions to ask (modify these for your own interviews):
 
 Results: 
 
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
-
-
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
+| Question | Class critique participant 1 |  Class critique participant 2 |  Class critique participant 3 |
+|----------|-------------|-------------|-------------|
+| Can you tell me what you think this is? | "This is a bar chart showing the cheapest European countries to study in." | "This is telling me which European country has the lowest cost if I want to study there. I can also see the tuition fee and living cost for each country." | "This is giving me the total costs of study, tuition fee, and living cost of each European country." |
+| Is there anything you find surprising or confusing? | "Not really, I think it's really clear." | "You may want to clarify in the title what kind of study it is." | "I think it's easy to understand." |
+| Who do you think is the intended audience for this? | "People who are interested in studying in Europe" | "Those considering studying in Europe." | "People who are interested in going to Europe to further their studies."  |
+| Is there anything you would change or do differently? | "No, I like the colors, I like the stack bars." | "Have you thought about adding a feature that shows which region the countries are in?" |  "I think it looks good." |
 
 Synthesis: 
 
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+Overall, the feedback was mostly positive, which gave me confidence that I was telling the story clearly and to the targeted audience. I especially appreciate the comments about the title. I also think the suggestion to show the region of each country is valuable. This was something I had been hoping to include, since the original map provided geographical context, and I wanted my bar chart to do the same.
+
+For my final redesign, I would like to rephrase the title and find a way to add a regional feature. My hope is to create a filter that allows people to choose which region (Northern, Southern, Western, or Eastern Europe) they want to explore, while still being able to view the overall ranking so they can see where the countries in a specific region fall within the complete list.
 
 ## Step five: build the solution
 
@@ -102,5 +98,6 @@ _Include and describe your final solution here. It's also a good idea to summari
 _List any references you used here._
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+
+I used Gemini to help me create number labels for each bar.
 
