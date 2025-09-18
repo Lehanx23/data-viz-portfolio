@@ -11,7 +11,27 @@ _You can include screenshots, sketches or other artifacts with your narrative to
 The visualization I chose was "Total yearly cost to study in select European countries," from an article called "The cheapest countries to study in Europe." Below you can find the website:
 https://www.finder.com/uk/current-accounts/student-bank-accounts/cheapest-countries-to-study-europe.
 
-<iframe title="Total yearly cost to study in select European countries (£)" aria-label="Map" id="datawrapper-chart-UamQC" src="https://datawrapper.dwcdn.net/UamQC/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="736" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();</script>
+<iframe title="Total yearly cost to study in select European countries (£)" 
+  aria-label="Map" 
+  id="datawrapper-chart-UamQC" 
+  src="https://datawrapper.dwcdn.net/UamQC/3/" 
+  scrolling="no" 
+  frameborder="0" 
+  style="width: 0; 
+  min-width: 100% !important; 
+  border: none;" 
+  height="736" 
+  data-external="1">
+  
+  </iframe><script 
+             type="text/javascript">!function()
+             {"use strict";window.addEventListener("message",
+                                                   (function(a){if(void 0!==a.data["datawrapper-height"])
+                                                   {var e=document.querySelectorAll("iframe");
+                                                    for(var t in a.data["datawrapper-height"])
+                                                      for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source)
+                                                      {var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+  </script>
 
 I selected this data visualization because I felt that studying in European countries is a topic that would interest a wide range of audiences. As an arts management student, I believe this topic resonates not only with Europeans but also with future arts managers around the world, since Europe has a rich history in both performing and visual arts and offers space for both classical and experimental/modern works. People from other industries may share similar interests as well.
 
