@@ -1,6 +1,6 @@
 | [home page](https://lehanx23.github.io/data-viz-portfolio/) | [data viz examples](https://lehanx23.github.io/data-viz-portfolio/dataviz-examples) | [critique by design](https://lehanx23.github.io/data-viz-portfolio/critique-by-design) | [final project I](https://lehanx23.github.io/data-viz-portfolio/final-project-part-one) | [final project II](https://lehanx23.github.io/data-viz-portfolio/final-project-part-two) | [final project III](https://lehanx23.github.io/data-viz-portfolio/final-project-part-three) |
 
-### Critique and Redesign
+# Critique and Redesign
 
 ## Step one: the visualization
 
@@ -59,7 +59,7 @@ This is my solution by Monday, September 15:
 
 ## Step four: Test the solution
 
-# Questions to ask: 
+### Questions to ask: 
 
 - Can you tell me what you think this is?
 
@@ -69,7 +69,7 @@ This is my solution by Monday, September 15:
 
 - Is there anything you would change or do differently?
 
-# Results: 
+### Results: 
 
 | Question | Peer review participant 1 |  Peer review participant 2 |  Peer review participant 3 |
 |----------|-------------|-------------|-------------|
@@ -78,7 +78,7 @@ This is my solution by Monday, September 15:
 | Who do you think is the intended audience for this? | "People who are interested in studying in Europe" | "Is it for everyone who's considering studying in Europe?" | "People who are interested in going to Europe to further their studies."  |
 | Is there anything you would change or do differently? | "No, I like the colors, I like the stack bars." | "Have you thought about adding a feature that shows which region the countries are in?" |  "I would play around with the tick interval, maybe make it bigger. Since you already have the labels, you don't need this many grid lines." |
 
-# Synthesis: 
+### Synthesis: 
 
 Overall, the feedback was mostly positive, which gave me confidence that I was telling the story clearly and to the targeted audience. However, people's answers to the third question and the question raised by the second particpant made me realized that I forgot to specify the targeted audience. I also think the suggestion to show the region of each country is valuable. This was something I had been hoping to include, since the original map provided geographical context, and I wanted my bar chart to do the same.
 
@@ -86,7 +86,7 @@ For my final redesign, I would like to rephrase the title, find a way to add a r
 
 ## Step five: build the solution
 
-# Procedure documentation:
+### Procedure documentation:
 
 A stacked bar chart was something I had been considering from the beginning of the process. After putting the dataset into Tableau, I experimented with several other chart types but still found the bar chart to be the clearest way to show the list of selected countries and the average yearly total cost for each.
 
@@ -100,7 +100,7 @@ During the peer review, I received some valuable suggestions, as mentioned in th
 
 After class, I revised the title to better reflect the targeted audience (people in the UK) and adjusted the tick interval to make the chart clearer. I then tested different methods for creating groups and sets to see if I could design a feature I liked. Eventually, I found that I could create multiple subgroups (Northern Europe, Southern Europe, Western Europe, and Eastern Europe) under one group, which I named Region. I dragged “Region” to Details in Marks and was able to generate a card with a drop-down menu showing all the subgroups. When selecting a subgroup, the audience can see all the countries in that region highlighted while still viewing their positions within the overall list. You are welcome to try this out on my visualization below.
 
-# Final Solution:
+### Final Solution:
 
 <div class='tableauPlaceholder' id='viz1758179836681' style='position: relative'><noscript><a href='#'><img alt='The Cheapest Countries to Study in Selected European Countries for People in the UK ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;ZN&#47;ZNW9CYDC5&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;ZNW9CYDC5' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;ZN&#47;ZNW9CYDC5&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
