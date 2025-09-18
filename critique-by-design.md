@@ -8,9 +8,12 @@ _You can include screenshots, sketches or other artifacts with your narrative to
 
 ## Step one: the visualization
 
-The visualization I chose was "Total yearly cost to study in select European countries," from an article called "The cheapest countries to study in Europe." Below you can find the website:
+The visualization I chose was "Total yearly cost to study in select European countries," from an article called "The cheapest countries to study in Europe." 
+
+Here is the website:
 https://www.finder.com/uk/current-accounts/student-bank-accounts/cheapest-countries-to-study-europe.
 
+Here is the visualization (code provided by the website):
 <iframe title="Total yearly cost to study in select European countries (£)" 
   aria-label="Map" 
   id="datawrapper-chart-UamQC" 
