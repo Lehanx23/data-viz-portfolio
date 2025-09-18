@@ -80,15 +80,15 @@ Results:
 | Question | Class critique participant 1 |  Class critique participant 2 |  Class critique participant 3 |
 |----------|-------------|-------------|-------------|
 | Can you tell me what you think this is? | "This is a bar chart showing the cheapest European countries to study in." | "This is telling me which European country has the lowest cost if I want to study there. I can also see the tuition fee and living cost for each country." | "This is giving me the total costs of study, tuition fee, and living cost of each European country." |
-| Is there anything you find surprising or confusing? | "Not really, I think it's really clear." | "You may want to clarify in the title what kind of study it is." | "I think it's easy to understand." |
-| Who do you think is the intended audience for this? | "People who are interested in studying in Europe" | "Those considering studying in Europe." | "People who are interested in going to Europe to further their studies."  |
-| Is there anything you would change or do differently? | "No, I like the colors, I like the stack bars." | "Have you thought about adding a feature that shows which region the countries are in?" |  "I think it looks good." |
+| Is there anything you find surprising or confusing? | "Not really, I think it's really clear." | "You may want to clarify in the title it's for who." | "I think it's easy to understand." |
+| Who do you think is the intended audience for this? | "People who are interested in studying in Europe" | "Is it for everyone who's considering studying in Europe?" | "People who are interested in going to Europe to further their studies."  |
+| Is there anything you would change or do differently? | "No, I like the colors, I like the stack bars." | "Have you thought about adding a feature that shows which region the countries are in?" |  "I would play around with the tick interval, maybe make it bigger. Since you already have the labels, you don't need this many grid lines." |
 
 Synthesis: 
 
-Overall, the feedback was mostly positive, which gave me confidence that I was telling the story clearly and to the targeted audience. I especially appreciate the comments about the title. I also think the suggestion to show the region of each country is valuable. This was something I had been hoping to include, since the original map provided geographical context, and I wanted my bar chart to do the same.
+Overall, the feedback was mostly positive, which gave me confidence that I was telling the story clearly and to the targeted audience. However, people's answers to the third question and the question raised by the second particpant made me realized that I forgot to specify the targeted audience. I also think the suggestion to show the region of each country is valuable. This was something I had been hoping to include, since the original map provided geographical context, and I wanted my bar chart to do the same.
 
-For my final redesign, I would like to rephrase the title and find a way to add a regional feature. My hope is to create a filter that allows people to choose which region (Northern, Southern, Western, or Eastern Europe) they want to explore, while still being able to view the overall ranking so they can see where the countries in a specific region fall within the complete list.
+For my final redesign, I would like to rephrase the title and find a way to add a regional feature. For the title, I already know that this chart is made for people in the UK who are interested in studying in Europe. For the regional feature, my hope is to create a filter that allows people to choose which region (Northern, Southern, Western, or Eastern Europe) they want to explore, while still being able to view the overall ranking so they can see where the countries in a specific region fall within the complete list.
 
 ## Step five: build the solution
 
