@@ -71,7 +71,7 @@ This is my solution by Monday, September 15:
 
 # Results: 
 
-| Question | Class critique participant 1 |  Class critique participant 2 |  Class critique participant 3 |
+| Question | Peer review participant 1 |  Peer review participant 2 |  Peer review participant 3 |
 |----------|-------------|-------------|-------------|
 | Can you tell me what you think this is? | "This is a bar chart showing the cheapest European countries to study in." | "This is telling me which European country has the lowest cost if I want to study there. I can also see the tuition fee and living cost for each country." | "This is giving me the total costs of study, tuition fee, and living cost of each European country." |
 | Is there anything you find surprising or confusing? | "Not really, I think it's really clear." | "You may want to clarify in the title it's for who." | "I think it's easy to understand." |
@@ -82,16 +82,23 @@ This is my solution by Monday, September 15:
 
 Overall, the feedback was mostly positive, which gave me confidence that I was telling the story clearly and to the targeted audience. However, people's answers to the third question and the question raised by the second particpant made me realized that I forgot to specify the targeted audience. I also think the suggestion to show the region of each country is valuable. This was something I had been hoping to include, since the original map provided geographical context, and I wanted my bar chart to do the same.
 
-For my final redesign, I would like to rephrase the title and find a way to add a regional feature. For the title, I already know that this chart is made for people in the UK who are interested in studying in Europe. For the regional feature, my hope is to create a filter that allows people to choose which region (Northern, Southern, Western, or Eastern Europe) they want to explore, while still being able to view the overall ranking so they can see where the countries in a specific region fall within the complete list.
+For my final redesign, I would like to rephrase the title, find a way to add a regional feature, and reduce the gridlines in the blackground. For the title, I already know that this chart is made for people in the UK who are interested in studying in Europe, so I will make sure to clarify this. For the regional feature, my hope is to create a filter that allows people to choose which region (Northern, Southern, Western, or Eastern Europe) they want to explore, while still being able to view the overall ranking so they can see where the countries in a specific region fall within the complete list. I will also make the tick interval bigger to reduce distraction caused by the gridlines.
 
 ## Step five: build the solution
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
-
 # Procedure documentation:
 
+A stacked bar chart was something I had been considering from the beginning of the process. After putting the dataset into Tableau, I experimented with several other chart types but still found the bar chart to be the clearest way to show the list of selected countries and the average yearly total cost for each.
 
+I wanted to present the breakdown of tuition fees and living costs for each country. I considered using a side-by-side bar chart or a stacked one, but since the story I wanted to tell was about the total cost, I ultimately chose the stacked bar. Because the type of cost farther from the vertical axis are harder to compare due to the nature of stacked bar chart, I decided to place tuition fees closer to the axis. My reasoning was that students who already have housing plans may not be as concerned about living costs, but everyone still needs to compare tuition (especially since scholarships may not yet be secured).
 
+I then added number labels for each bar to show the total cost, so the audience doesn’t need to hover over the bar to check. I also added labels for tuition fees and living costs, but set them to appear only when highlighted to prevent the chart from being overwhelmed by numbers.
+
+I also explored adding a feature to group countries by region. However, I didn’t like the options of either showing only one region while muting the others or creating separate charts for each region, since both approaches would reduce the overall picture. For this reason, I didn’t include the feature in time for the Tuesday in-class peer review.
+
+During the peer review, I received some valuable suggestions, as mentioned in the section above.
+
+After class, I revised the title to better reflect the targeted audience (people in the UK) and adjusted the tick interval to make the chart clearer. I then tested different methods for creating groups and sets to see if I could design a feature I liked. Eventually, I found that I could create multiple subgroups (Northern Europe, Southern Europe, Western Europe, and Eastern Europe) under one group, which I named Region. I dragged “Region” to Details in Marks and was able to generate a card with a drop-down menu showing all the subgroups. When selecting a subgroup, the audience can see all the countries in that region highlighted while still viewing their positions within the overall list. You are welcome to try this out on my visualization below.
 
 # Final Solution:
 
