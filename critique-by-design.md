@@ -11,9 +11,11 @@ _You can include screenshots, sketches or other artifacts with your narrative to
 The visualization I chose was "Total yearly cost to study in select European countries," from an article called "The cheapest countries to study in Europe." 
 
 Here is the website:
+
 https://www.finder.com/uk/current-accounts/student-bank-accounts/cheapest-countries-to-study-europe.
 
 Here is the visualization (code provided by the website):
+
 <iframe title="Total yearly cost to study in select European countries (£)" 
   aria-label="Map" 
   id="datawrapper-chart-UamQC" 
@@ -41,7 +43,12 @@ I selected this data visualization because I felt that studying in European coun
 I wanted to see how a data visualization on this topic could help audiences learn more about the cheapest countries to study in Europe, and to consider whether, if I were to design the visualization myself, I could tell a clearer story.
 
 ## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+
+#Observations on the Original Data Visualization
+
+The data visualization is a filled map of Europe showing the average yearly tuition costs, with a color gradient to represent cost differences. I think the map is useful because it provides geographical context, and the color gradient shows the different total yearly costs each country has. The visualization is also truthful, engaging due to its interactive hover feature, and aesthetically pleasing with its clear blue color scheme.
+
+However, there are some areas for improvement. The intuitiveness could be better, as audiences had to refer to the legend to understand whether the shallow blue or the dark blue is presenting the countries with low yearly total costs. The chart also lacks completeness, as it only shows the total cost without breaking it down into tuition versus living expenses. The authors had to add a separate table and additional textual explanation to introduce the average yearly tuition fees and living costs of each country to the audience. Finally, there is a perceptibility issue: it's hard to distinguish between countries with similar shades of blue, and the lack of country names makes it difficult to quickly locate specific nations without hovering, and makes it easy for the audience to overlook a country they are not familiar but may be interested in.
 
 ## Step three: Sketch a solution
 
