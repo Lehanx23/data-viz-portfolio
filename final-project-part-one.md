@@ -7,14 +7,14 @@
  
 As a Master of Arts Management student at Heinz College, Carnegie Mellon University, with a focus on theatre management and production and aspirations to work in New York City after graduation, I have always been curious about Broadway productions and the current Broadway ecosystem from a general manager’s or producer’s perspective. Through this research and data visualization project, I aim to provide insights that would be valuable for new and incoming general managers and producers as they step into the industry.
 
-The COVID-19 pandemic had a severe impact on Broadway theaters. From March 2020 to June 2021, theaters were closed for 15 months, leading to the permanent closure of many shows. Reopening required the careful coordination of numerous stakeholders across all aspects of production, from the stage to backstage, from front of house to audience management (NYU, n.d.). Now, more than four years later, Broadway’s gross revenue and attendance appear to be returning to pre-pandemic levels (“Statistics - Broadway in NYC | The Broadway League,” n.d.). However, these trends only tell part of the story. Producers must also consider deeper factors such as recoupment rates, shifting audience demographics, and changing audience preferences shaped by the lockdown years. 
+The COVID-19 pandemic had a severe impact on Broadway theaters. From March 2020 to June 2021, theaters were closed for 15 months, leading to the permanent closure of many shows. Reopening required the careful coordination of numerous stakeholders across all aspects of production, from the stage to backstage, from front of house to audience management (NYU, n.d.). Now, more than four years later, Broadway’s gross revenue and attendance appear to be returning to pre-pandemic levels (“Statistics - Broadway in NYC | The Broadway League,” 2025). However, these trends only tell part of the story. Producers must also consider deeper factors such as recoupment rates, shifting audience demographics, and changing audience preferences shaped by the lockdown years. 
 
 The goal of my project is to give emerging Broadway general managers and producers a clearer understanding of the current industry’s challenges and opportunities, while also sharing lessons learned from the pandemic that may help guide future directions and prepare for similar shutdowns.
 
 ## Project Structure
-![16801758848813_ pic_hd](https://github.com/user-attachments/assets/b5f2fb74-ecbc-42f7-b929-c8a223be08d3)
+![16841758850986_ pic_hd](https://github.com/user-attachments/assets/3187bbdb-e698-4ab7-b994-312de7a765d4)
 
-### Broadway’s Return to Pre-Pandemic Levels
+### Broadway’s Return to Pre-Pandemic Levels?
 The project will begin by presenting: Broadway theaters are once again reporting gross revenue and attendance figures that look comparable to pre-pandemic years. This sets the context for the audience to consider whether Broadway’s recovery is as straightforward as it appears.
 
 ### Looking Beneath the Surface
@@ -24,15 +24,25 @@ This section will compare the real value, instead of the nominal value, of ticke
 The project then visualizes the shifts in audience demographics of Broadway shows, including the dependence on tourism and possible other traits. This section will also raise the question: what happens if a major disruption, such as another lockdown, occurs again?
 
 ### Shifting Preferences and Emerging Opportunities
-The final section will visualize a general post-pandemic shift in audience preferences, including a greater preference for streaming. This may present new opportunities for general managers and producers to diversify revenue and expand reach.
+The final section will visualize a general post-pandemic shift in audience preferences, including a greater preference for streaming. Some Broadway shows and other large theater organizations have already started to explore such hybrid model. This may present new opportunities for general managers and producers to diversify revenue and expand reach.
 
 ## One Sentence Summary
 This project uses data visualization to explore how Broadway has recovered since the pandemic, analyzing challenges in financial sustainability and shifts in audience demographics, as well as opportunities that new general managers and producers can consider as they enter the industry.
 
 # Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+### Broadway’s Return to Pre-Pandemic Levels?
+![16811758848816_ pic_hd](https://github.com/user-attachments/assets/3aa2709d-f90d-46a0-bff2-08b1468a815d)
 
-Text here...
+### Looking Beneath the Surface
+Real value of gross revenue by types of show:
+![16821758848818_ pic_hd](https://github.com/user-attachments/assets/24978e41-f26a-4872-aa74-489f303e7a21)
+
+Recoupment by types of show:
+![16831758848828_ pic_hd](https://github.com/user-attachments/assets/a39f5ce1-39bd-4ae8-9e1b-9ac13f61f863)
+
+### Audience Demographics and Risks
+
+### Shifting Preferences and Emerging Opportunities
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
