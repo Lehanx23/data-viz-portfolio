@@ -80,8 +80,5 @@ Spangler, Todd. “‘Hamilton’ Drives Up Disney Plus App Downloads 74% Over t
 
 The Broadway League. “Statistics - Broadway in NYC.” Accessed September 25, 2025. https://www.broadwayleague.com/research/statistics-broadway-nyc/.
 
-Swenson, Megan. There’s No Business Like Show Business: Analyzing the Factors of Broadway Shows That Have the Most Influence Over the Theatre Industry’s Recovery From the COVID-19 Shutdown. n.d.
-
-
 ## AI acknowledgements
 There is no use of AI.
