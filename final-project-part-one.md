@@ -56,7 +56,8 @@ Text here...
 
 | Name | URL | Description |
 |------|-----|-------------|
-|      |     |             |
+|   Broadway Season Statistics: 2014-2015 through 2024-2025   |  https://www.broadwayleague.com/static/user/admin/media/statistics_broadway_2014-15_2024-25_nmlKT2M.pdf   |       This is a PDF version of a spreadsheet showing the total gross revenue, total attendance, average paid admission, etc. of Broadway theaters across seasons.       |
+|   Broadway Season Statistics by Type of Show: 2018-2019 through 2024-2025   |   https://www.broadwayleague.com/static/user/admin/media/statistics_broadway_2024-2025_detail_q215GQY.pdf  |       This is a more detailed breakdown of the statisticis above by type of show (musicals vs plays vs specials)       |
 |      |     |             |
 |      |     |             |
 
