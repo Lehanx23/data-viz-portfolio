@@ -24,7 +24,7 @@ This section will compare the real value, instead of the nominal value, of ticke
 The project then visualizes the shifts in audience demographics of Broadway shows, including the dependence on tourism and possible other traits. This section will also raise the question: what happens if a major disruption, such as another lockdown, occurs again?
 
 ### Shifting Preferences and Emerging Opportunities
-The final section will visualize a general post-pandemic shift in audience preferences, including a greater preference for streaming. Some Broadway shows and other large theater organizations have already started to explore such hybrid model. This may present new opportunities for general managers and producers to diversify revenue and expand reach.
+The final section will visualize a general post-pandemic shift in audience preferences, including a greater preference for digital emtertainment instead of in-person live performance. Some Broadway shows and other large theater organizations have already started to explore such hybrid model. This may present new opportunities for general managers and producers to diversify revenue and expand reach.
 
 ## One Sentence Summary
 This project uses data visualization to explore how Broadway has recovered since the pandemic, analyzing challenges in financial sustainability and shifts in audience demographics, as well as opportunities that new general managers and producers can consider as they enter the industry.
@@ -41,8 +41,11 @@ Recoupment by types of show:
 ![16831758848828_ pic_hd](https://github.com/user-attachments/assets/a39f5ce1-39bd-4ae8-9e1b-9ac13f61f863)
 
 ### Audience Demographics and Risks
+![16861758854108_ pic_hd](https://github.com/user-attachments/assets/000561dc-7fef-4134-a959-b297ea56512e)
 
 ### Shifting Preferences and Emerging Opportunities
+![16871758855242_ pic_hd](https://github.com/user-attachments/assets/ae325cdd-3dfb-46ae-9e53-dbdccee74f17)
+
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
