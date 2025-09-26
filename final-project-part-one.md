@@ -71,7 +71,7 @@ As I further explore my topic, I may add more datasets to create visualizations.
 # Method and medium
 I plan to publish my final project on Shorthand. All the textual content will also be created on this platform. For my data visualizations, I anticipate using a combination of Shorthand and Tableau, depending on the type and style of the visualizations I want to create. Right now, my visualizations are mostly line charts and bar charts (both side-by-side and stacked), but I will explore more ways to visualize my data in the coming week.
 
-## References
+# References
 Abourizk, Michael. “Are Broadway Show Tickets Actually More Expensive in 2025?” Broadway News, June 11, 2025. https://www.broadwaynews.com/are-broadway-show-tickets-actually-more-expensive-in-2025/.
 
 Broadway News. “Recoupment.” Accessed September 25, 2025. https://www.broadwaynews.com/tag/recoupment/.
@@ -84,5 +84,5 @@ Spangler, Todd. “‘Hamilton’ Drives Up Disney Plus App Downloads 74% Over t
 
 The Broadway League. “Statistics - Broadway in NYC.” Accessed September 25, 2025. https://www.broadwayleague.com/research/statistics-broadway-nyc/.
 
-## AI acknowledgements
+# AI acknowledgements
 There is no use of AI.
