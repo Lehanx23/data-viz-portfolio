@@ -48,11 +48,17 @@ Recoupment by types of show:
 
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
+My project will use several publicly available industry datasets. The Broadway League’s seasonal statistics (2014–2015 through 2024–2025) provide gross revenue, attendance, and ticket price data, which serve as the foundation for my analysis of Broadway’s financial recovery. I anticipate using a line chart to show the overall trend.
 
-Text here...
+The more detailed Broadway League seasonal statistics, along with the recoupment information on Broadway News, will add depth to the analysis of Broadway’s financial health. I will use a line chart to show the detailed seasonal statistics and a bar chart to show the recoupment percentage in the years post-COVID.
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+A stacked bar chart using data from the Broadway League’s audience demographic report will emphasize the large percentage makeup of tourists in Broadway’s audience, showing the risks the industry may face if another lockdown happens.
+
+Finally, I will draw data from the Motion Picture Association’s 2021 THEME Report to place Broadway trends in the context of broader shifts toward digital and streaming entertainment post-pandemic, which leads to possible future directions for a hybrid business model.
+
+I understand that in some of the sources, charts are provided instead of datasets. However, I will extract a portion of the numerical data related to my project from the charts and create my own version of the visualizations.
+
+As I further explore my topic, I may add more datasets to create visualizations.
 
 | Name | URL | Description |
 |------|-----|-------------|
@@ -63,9 +69,7 @@ Text here...
 |   2021 THEME Report from Motion Pictures   |   https://www.motionpictures.org/wp-content/uploads/2022/03/MPA-2021-THEME-Report-FINAL.pdf  |       This is a report with some data of audience shifting preferences to digital entertainment      |
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
-
-Text here...
+I plan to use 
 
 ## References
 Abourizk, Michael. “Are Broadway Show Tickets Actually More Expensive in 2025?” Broadway News, June 11, 2025. https://www.broadwaynews.com/are-broadway-show-tickets-actually-more-expensive-in-2025/.
