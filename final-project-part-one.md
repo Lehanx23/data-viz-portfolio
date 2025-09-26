@@ -7,7 +7,7 @@
  
 As a Master of Arts Management student at Heinz College, Carnegie Mellon University, with a focus on theatre management and production and aspirations to work in New York City after graduation, I have always been curious about Broadway productions and the current Broadway ecosystem from a general manager’s or producer’s perspective. Through this research and data visualization project, I aim to provide insights that would be valuable for new and incoming general managers and producers as they step into the industry.
 
-The COVID-19 pandemic had a severe impact on Broadway theaters. From March 2020 to June 2021, theaters were closed for 15 months, leading to the permanent closure of many shows. Reopening required the careful coordination of numerous stakeholders across all aspects of production, from the stage to backstage, from front of house to audience management (NYU, n.d.). Now, more than four years later, Broadway’s gross revenue and attendance appear to be returning to pre-pandemic levels (“Statistics - Broadway in NYC," 2025). However, these trends only tell part of the story. Producers must also consider deeper factors such as recoupment rates, shifting audience demographics, and changing audience preferences shaped by the lockdown years. 
+The COVID-19 pandemic had a severe impact on Broadway theaters. From March 2020 to June 2021, theaters were closed for 15 months, leading to the permanent closure of many shows. Reopening required the careful coordination of numerous stakeholders across all aspects of production, from the stage to backstage, from front of house to audience management (NYU, n.d.). Now, more than four years later, Broadway’s gross revenue and attendance appear to be returning to pre-pandemic levels (The Broadway League, 2025). However, these trends only tell part of the story. Producers must also consider deeper factors such as recoupment rates, shifting audience demographics, and changing audience preferences shaped by the lockdown years. 
 
 The goal of my project is to give emerging Broadway general managers and producers a clearer understanding of the current industry’s challenges and opportunities, while also sharing lessons learned from the pandemic that may help guide future directions and prepare for similar shutdowns.
 
@@ -68,7 +68,20 @@ Text here...
 Text here...
 
 ## References
-_List any references you used here._
+Abourizk, Michael. “Are Broadway Show Tickets Actually More Expensive in 2025?” Broadway News, June 11, 2025. https://www.broadwaynews.com/are-broadway-show-tickets-actually-more-expensive-in-2025/.
+
+Broadway News. “Recoupment.” Accessed September 25, 2025. https://www.broadwaynews.com/tag/recoupment/.
+
+NYU. “Broadway’s Post-Pandemic Future.” Accessed September 25, 2025. http://www.nyu.edu/content/nyu/en/about/news-publications/news/2021/june/broadway-s-post-pandemic-future-.
+
+Simon, Scott. “Broadway Is Seeing a Steady Revival after the Pandemic, Partly Buoyed by Tourists.” Theater. NPR, February 8, 2025. https://www.npr.org/2025/02/08/nx-s1-5283976/broadway-is-seeing-a-steady-revival-after-the-pandemic-partly-buoyed-by-tourists.
+
+Spangler, Todd. “‘Hamilton’ Drives Up Disney Plus App Downloads 74% Over the Weekend in U.S.” Variety, July 6, 2020. https://variety.com/2020/digital/news/hamilton-disney-plus-premiere-app-downloads-72-percent-1234698795/.
+
+The Broadway League. “Statistics - Broadway in NYC.” Accessed September 25, 2025. https://www.broadwayleague.com/research/statistics-broadway-nyc/.
+
+Swenson, Megan. There’s No Business Like Show Business: Analyzing the Factors of Broadway Shows That Have the Most Influence Over the Theatre Industry’s Recovery From the COVID-19 Shutdown. n.d.
+
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+There is no use of AI.
