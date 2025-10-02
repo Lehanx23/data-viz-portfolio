@@ -19,9 +19,9 @@ Text here!
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+|   To make sure the story flow is easy to follow and makes logical sense   |         Is the flow easy to follow? Is there any logical gap?       |
+|   To make sure the visualizations are clear and conveying the message   |        Are the visualizations easy to read? Are you confused about anything looking at them?          |
+|   To make sure my story is detailed well supported by evidence   |         Is there any context information you wish I provided? Any data that would be helpful for you to understand the ecosystem?         |
 
 
 Text here!
