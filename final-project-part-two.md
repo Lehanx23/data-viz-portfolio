@@ -30,30 +30,45 @@ Text here!
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
-
-Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| There is a gap between recoupment analysis and audience demographics, and I need to address why producing plays may not be the recommended course of action. | I will analyze more deeply why, in the 2024–25 season, plays have a higher recoupment rate. Research shows that one of the primary reasons is the casting of famous movie actors. However, this trend is not sustainable for the long term, since these productions are usually limited runs (often just a few months). The long-term health of Broadway depends on productions with extended runs, which provide stability for everyone involved. Producers should therefore consider strategies to sustain attendance in productions without relying on celebrity casting. This addition will address both identified issues. |
+|  There is a lack of context regarding why both gross revenue and recoupment rate need to be discussed, and what exactly recoupment means. | I will explain that gross revenue is one of the most common measures of success and is frequently cited. However, because production costs rise around 5% annually, gross revenue alone is insufficient for evaluating success. Recoupment is a crucial concept in the theater industry: it measures whether a show’s net profits are sufficient to repay the initial capitalization invested by producers and investors. I will ensure more context is provided to clarify this distinction. |
+|  Visualization improvement: make it easier to compare pre-pandemic peak gross revenue and 2024–25 season gross; make the 20% average recoupment rate line clearer.  |  While I believe it’s important to simplify the comparison, I decided to only display number labels for the 2018–19 season and the 2024–25 season. Adding another line might distract from the main story. However, I will clearly label the 20% reference line so that viewers understand it represents the average pre-pandemic recoupment rate.  |
 
-> ...include any final thoughts you have here. 
+I am grateful for all the constructive feedback I received. While each individual comment did not provide the exact solution for closing the gap in my story or pointing to a clearer call to action, taken together they helped me identify the underlying problem and improve the overall story flow.
 
-Text here!
-
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
+I expect to make additional small adjustments as I fully develop my story and finalize the visualizations, and I’m looking forward to seeing where I end up.
 
 ## References
-_List any references you used here._
+Abourizk, Michael. “Are Broadway Show Tickets Actually More Expensive in 2025?” Broadway News, June 11, 2025. https://www.broadwaynews.com/are-broadway-show-tickets-actually-more-expensive-in-2025/.
+
+“Broadway Can Blame Its Greedy Self for Going Bust.” Accessed October 2, 2025. https://www.thetimes.com/us/opinion/article/broadway-can-blame-its-greedy-self-for-going-bust-50vtwnnzk.
+
+Broadway News. “Recoupment.” Accessed September 25, 2025. https://www.broadwaynews.com/tag/recoupment/.
+
+Communications, NYU Web. “Broadway’s Post-Pandemic Future.” Accessed September 25, 2025. http://www.nyu.edu/content/nyu/en/about/news-publications/news/2021/june/broadway-s-post-pandemic-future-.
+
+Evans, Greg. “Broadway Box Office For 2024-2025 Season Surpasses Pre-Pandemic Record.” Deadline, May 13, 2025. https://deadline.com/2025/05/broadway-box-office-surpasses-pre-pandemic-record-1236395357/.
+
+Playbill. “Broadway, Off-Broadway Tax Subsidy Dries Up Earlier Than Expected.” Accessed October 2, 2025. https://playbill.com/article/broadway-off-broadway-tax-subsidy-dries-up-earlier-than-expected.
+
+Simon, Scott. “Broadway Is Seeing a Steady Revival after the Pandemic, Partly Buoyed by Tourists.” Theater. NPR, February 8, 2025. https://www.npr.org/2025/02/08/nx-s1-5283976/broadway-is-seeing-a-steady-revival-after-the-pandemic-partly-buoyed-by-tourists.
+
+Spangler, Todd. “‘Hamilton’ Drives Up Disney Plus App Downloads 74% Over the Weekend in U.S.” Variety, July 6, 2020. https://variety.com/2020/digital/news/hamilton-disney-plus-premiere-app-downloads-72-percent-1234698795/.
+
+“Statistics - Broadway in NYC | The Broadway League.” Accessed September 25, 2025. https://www.broadwayleague.com/research/statistics-broadway-nyc/.
+
+“Statistics - Broadway in NYC | The Broadway League.” Accessed September 25, 2025. https://www.broadwayleague.com/research/statistics-broadway-nyc/.
+
+Swenson, Megan. There’s No Business Like Show Business: Analyzing the Factors of Broadway Shows That Have the Most Influence Over the Theatre Industry’s Recovery From the COVID-19 Shutdown. n.d.
+
+“The Basics of Investing on Broadway | Loeb & Loeb LLP.” Accessed September 25, 2025. https://www.loeb.com/en/insights/publications/2023/12/the-basics-of-investing-on-broadway.
+
+“Why Musicals Are Struggling to Make Money on Broadway - The New York Times.” Accessed October 2, 2025. https://www.nytimes.com/2025/09/25/nyregion/why-musicals-are-struggling-to-make-money-on-broadway.html.
+
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+AI was not used in this part of the assignment.
 
