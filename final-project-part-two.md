@@ -13,29 +13,20 @@ Text here!
 Text here!
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
-
-Text here!
 
 | Goal | Questions to Ask |
 |------|------------------|
-|   To make sure the story flow is easy to follow and makes logical sense   |         Is the flow easy to follow? Is there any logical gap?       |
-|   To make sure the visualizations are clear and conveying the message   |        Are the visualizations easy to read? Are you confused about anything looking at them?          |
-|   To make sure my story is detailed well supported by evidence   |         Is there any context information you wish I provided? Any data that would be helpful for you to understand the ecosystem?         |
-
-
-Text here!
+|   Ensure the story flow is easy to follow and logically coherent   |   Is the flow easy to follow? Are there any logical gaps? Do you wish to see more context information?   |
+|   Ensure the visualizations are clear and convey the intended message   |     Are the visualizations easy to read? Is anything confusing when you look at them?     |
+|   Ensure my story has a strong call to action   |    After reading this, do you feel like you understand the key takeaway? What actions would you consider taking based on this story?     |
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
-
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+| Questions               | In-class critique participant 1 | In-class critique participant 2 | In-class critique participant 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+| Is the flow easy to follow? Are there any logical gaps? Do you wish to see more context information? | "I wish there is a better transition from recoupment rates to audience demographics. Maybe you can mention attendence rate." |  "I think the flow is good! But I wondered why you need to talk about both gross revenue and recoupment rate?"   |   "I thought the shift in audience preference to livestream and other at-home activities only affect movie theaters? Are they also affecting live performances?"   |
+|   Are the visualizations easy to read? Is anything confusing when you look at them?     |    "I think if you want to show on your line chart that gross revenue has returned to pre-pandemic level, you can add a horizontal line showing the pre-pandemic peak value."     |      "No, I like how you use the same color codes for plays and musicals for all your visualizations, this feels consistent."       |      "For the chart showing recoupment rate, you may want to clarify that the horizontal line you drew represents the average recoupmnent rate pre-COVID."     |
+|    After reading this, do you feel like you understand the key takeaway? What actions would you consider taking based on this story?    |   "I think I understand how you got to your suggestion of providing recordings on platforms, but I also wondered why producers can't just produce plays if they have higher recoupment rates."     |    "I like your proposal of diversifying the revenue streams."    |    "I think the key takeaway for me is that producers need to think about how they can be more prepared if COVID hits again, and doing a hybrid model would definitely help mitigate the risk."    |
 
 
 # Identified changes for Part III
