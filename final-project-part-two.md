@@ -8,9 +8,16 @@ I have made some adjustments to the story outline. Here is what I currently have
 
 ## Broadway’s Return to Pre-Pandemic Levels?
 The project will begin by presenting: Broadway theaters are once again reporting gross revenue that looks comparable to pre-pandemic years. This sets the context for the audience to consider whether Broadway’s recovery is as straightforward as it appears.
+<img width="819" height="591" alt="Screenshot 2025-10-02 at 11 56 08 PM" src="https://github.com/user-attachments/assets/2aa0debf-f1c7-4762-82cf-0baa74f399a0" />
+
+<img width="1054" height="595" alt="Screenshot 2025-10-02 at 11 56 24 PM" src="https://github.com/user-attachments/assets/193d8cb9-270d-4813-b8c6-b764bcdc472c" />
+
 
 ## Looking Beneath the Surface
 This section will mention that research shows the cost of production for a Broadway show rises 5% per year, so solely looking at gross revenue is not enough. By looking at the recoupment rate data, only plays this past season were able to reach the pre-pandemic average recoupment rate. 
+
+<img width="1055" height="606" alt="Screenshot 2025-10-02 at 11 56 40 PM" src="https://github.com/user-attachments/assets/6f75002f-8cbf-4a7c-a935-d95d7a8280ee" />
+
 
 Taking a deeper dive, we see that most of these recouped plays have celebrities in them, which leads to high ticket prices. However, this is not sustainable (detailed reasoning in shorthand and also down below in the “Identified Changes for Part III” section).
 
