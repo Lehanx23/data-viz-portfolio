@@ -1,16 +1,17 @@
 | [home page](https://lehanx23.github.io/data-viz-portfolio/) | [data viz examples](https://lehanx23.github.io/data-viz-portfolio/dataviz-examples) | [critique by design](https://lehanx23.github.io/data-viz-portfolio/critique-by-design) | [final project I](https://lehanx23.github.io/data-viz-portfolio/final-project-part-one) | [final project II](https://lehanx23.github.io/data-viz-portfolio/final-project-part-two) | [final project III](https://lehanx23.github.io/data-viz-portfolio/final-project-part-three) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
 
-Text here!
+Shorthand Link: https://preview.shorthand.com/de5uLcDxcFtzQxor/responsive/desktop
+
+
 
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
+My target audience will be Broadway producers. They are responsible for the overall business, creative, and financial aspects of a production that will eventually be staged in the Broadway theatre district in Midtown Manhattan, New York City. They act as the show's "CEO" and have final says in finding a script, raising funds, picking the creative team, overseeing marketing, and guiding the project from development through its run. Although many hands-on works are done by General Management companies, producers have overaching power in critical decisions to ensure the show's success and financial viability. 
 
-Text here!
+The goal of my project is to give Broadway producers a clearer understanding of the current industry’s challenges and opportunities, as the ecosystem have shifted in many aspects post-COVID, and provide some possible future directions that ensure profitability while not harming the long-term health of the industry.
 
 ## Interview script
 
