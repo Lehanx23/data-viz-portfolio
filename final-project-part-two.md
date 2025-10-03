@@ -4,7 +4,26 @@
 
 Shorthand Link: https://preview.shorthand.com/de5uLcDxcFtzQxor/responsive/desktop
 
+I have made some adjustments to the story outline. Here is what I currently have:
 
+## Broadway’s Return to Pre-Pandemic Levels?
+The project will begin by presenting: Broadway theaters are once again reporting gross revenue that looks comparable to pre-pandemic years. This sets the context for the audience to consider whether Broadway’s recovery is as straightforward as it appears.
+
+## Looking Beneath the Surface
+This section will mention that research shows the cost of production for a Broadway show rises 5% per year, so solely looking at gross revenue is not enough. By looking at the recoupment rate data, only plays this past season were able to reach the pre-pandemic average recoupment rate. 
+
+Taking a deeper dive, we see that most of these recouped plays have celebrities in them, which leads to high ticket prices. However, this is not sustainable (detailed reasoning in shorthand and also down below in the “Identified Changes for Part III” section).
+
+What producers need to pay more attention to is improving long-term attendance for the shows that don’t have movie stars.
+
+## Attendance Rate and Audience Demographics
+The project then visualizes the shifts in attendance rate and audience demographics of Broadway shows, showing that attendance rate does not reach the pre-pandemic level and may be stagnant.
+
+## Shifting Preferences and Emerging Opportunities
+The final section will visualize a general post-pandemic shift in audience preferences, including a greater preference for digital entertainment instead of in-person live performance. Some Broadway shows and other large theater organizations have already started to explore such hybrid model. This may present new opportunities for general managers and producers to diversify revenue and expand reach.
+
+## Note
+Please not that the above is subject to change, please see the Shorthand page for the most up-to-date version.
 
 # User research 
 
