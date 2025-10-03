@@ -85,11 +85,9 @@ Simon, Scott. “Broadway Is Seeing a Steady Revival after the Pandemic, Partly 
 
 Spangler, Todd. “‘Hamilton’ Drives Up Disney Plus App Downloads 74% Over the Weekend in U.S.” Variety, July 6, 2020. https://variety.com/2020/digital/news/hamilton-disney-plus-premiere-app-downloads-72-percent-1234698795/.
 
-“Statistics - Broadway in NYC | The Broadway League.” Accessed September 25, 2025. https://www.broadwayleague.com/research/statistics-broadway-nyc/.
+The Broadway League. “Statistics - Broadway in NYC.” Accessed September 25, 2025. https://www.broadwayleague.com/research/statistics-broadway-nyc/.
 
-“Statistics - Broadway in NYC | The Broadway League.” Accessed September 25, 2025. https://www.broadwayleague.com/research/statistics-broadway-nyc/.
-
-“The Basics of Investing on Broadway | Loeb & Loeb LLP.” Accessed September 25, 2025. https://www.loeb.com/en/insights/publications/2023/12/the-basics-of-investing-on-broadway.
+The Broadway League. “Statistics - Broadway in NYC.” Accessed September 25, 2025. https://www.broadwayleague.com/research/statistics-broadway-nyc/.
 
 “Why Musicals Are Struggling to Make Money on Broadway - The New York Times.” Accessed October 2, 2025. https://www.nytimes.com/2025/09/25/nyregion/why-musicals-are-struggling-to-make-money-on-broadway.html.
 
