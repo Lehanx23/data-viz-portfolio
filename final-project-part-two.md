@@ -48,7 +48,7 @@ Abourizk, Michael. “Are Broadway Show Tickets Actually More Expensive in 2025?
 
 Broadway News. “Recoupment.” Accessed September 25, 2025. https://www.broadwaynews.com/tag/recoupment/.
 
-Communications, NYU Web. “Broadway’s Post-Pandemic Future.” Accessed September 25, 2025. http://www.nyu.edu/content/nyu/en/about/news-publications/news/2021/june/broadway-s-post-pandemic-future-.
+NYU. “Broadway’s Post-Pandemic Future.” Accessed September 25, 2025. http://www.nyu.edu/content/nyu/en/about/news-publications/news/2021/june/broadway-s-post-pandemic-future-.
 
 Evans, Greg. “Broadway Box Office For 2024-2025 Season Surpasses Pre-Pandemic Record.” Deadline, May 13, 2025. https://deadline.com/2025/05/broadway-box-office-surpasses-pre-pandemic-record-1236395357/.
 
@@ -61,8 +61,6 @@ Spangler, Todd. “‘Hamilton’ Drives Up Disney Plus App Downloads 74% Over t
 “Statistics - Broadway in NYC | The Broadway League.” Accessed September 25, 2025. https://www.broadwayleague.com/research/statistics-broadway-nyc/.
 
 “Statistics - Broadway in NYC | The Broadway League.” Accessed September 25, 2025. https://www.broadwayleague.com/research/statistics-broadway-nyc/.
-
-Swenson, Megan. There’s No Business Like Show Business: Analyzing the Factors of Broadway Shows That Have the Most Influence Over the Theatre Industry’s Recovery From the COVID-19 Shutdown. n.d.
 
 “The Basics of Investing on Broadway | Loeb & Loeb LLP.” Accessed September 25, 2025. https://www.loeb.com/en/insights/publications/2023/12/the-basics-of-investing-on-broadway.
 
